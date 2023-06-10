@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../Images"
+		},
+		{
+			"path": "../JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My Website Codio",
+		"liveServer.settings.port": 5501
+	}
+}
